@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>Microsoft.Azure.AppService</id>
-    <version>$version$</version>
+    <version>1.0.1</version>
     <title>$title$</title>
     <authors>adrianhall</authors>
     <owners>adrianhall</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/adrianhall/dotnet-core-azureappservice</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Handle Azure App Service authentication and configuration easily in your ASP.NET Core application hosted within Azure App Service.</description>
-    <releaseNotes>First release, covering Azure App Service Authentication and App Settings</releaseNotes>
+    <releaseNotes>Down-revved the dependencies to make the library more universally applicable.</releaseNotes>
     <copyright>Copyright 2017</copyright>
     <tags>azure appservice netcore</tags>
   </metadata>
