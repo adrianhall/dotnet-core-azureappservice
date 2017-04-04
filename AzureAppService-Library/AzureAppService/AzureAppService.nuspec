@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.Azure.AppService</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>adrianhall</authors>
+    <owners>adrianhall</owners>
+    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
+    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Handle Azure App Service authentication and configuration easily in your ASP.NET Core application hosted within Azure App Service.</description>
+    <releaseNotes>First release, covering Azure App Service Authentication and App Settings</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>azure appservice netcore</tags>
+  </metadata>
+</package>
