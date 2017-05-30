@@ -5,7 +5,7 @@
     <version>1.0.1</version>
     <title>$title$</title>
     <authors>adrianhall</authors>
-    <owners>adrianhall</owners>
+    <owners>jsandersrocks; adrianhall</owners>
     <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
     <projectUrl>https://github.com/adrianhall/dotnet-core-azureappservice</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
